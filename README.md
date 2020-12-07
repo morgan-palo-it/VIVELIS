@@ -1,2 +1,0 @@
-# VIVELYS
-experimentations vivelys
